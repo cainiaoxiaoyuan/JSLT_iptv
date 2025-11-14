@@ -4,4 +4,4 @@
 
 ## 下载链接
 * [txt格式](https://raw.githubusercontent.com/cainiaoxiaoyuan/JSLT_iptv/refs/heads/main/JSLT.txt)
-* [txt格式](https://raw.githubusercontent.com/cainiaoxiaoyuan/JSLT_iptv/refs/heads/main/JSLT.m3u8)
+* [m3u8格式](https://raw.githubusercontent.com/cainiaoxiaoyuan/JSLT_iptv/refs/heads/main/JSLT.m3u8)
